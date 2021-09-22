@@ -1,4 +1,4 @@
-print 'Qual o seu peso?    '
+print 'Qual o seu peso?   '
 
 peso = gets.chomp.to_i
 
